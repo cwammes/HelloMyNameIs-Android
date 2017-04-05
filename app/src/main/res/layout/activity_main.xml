@@ -34,7 +34,9 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#fff">
+            android:background="#fff"
+            android:paddingBottom="35dp"
+            android:paddingTop="35dp">
 
             <TextView
                 android:layout_width="match_parent"
